@@ -15,6 +15,7 @@ exports.google       = require("./google");
 exports.groove       = require("./groove");
 exports.hoopla       = require("./hoopla");
 exports.jango        = require("./jango");
+exports.noisetrade   = require("./noisetrade");
 exports.npr          = require("./npr");
 exports.pandora      = require("./pandora");
 exports.playerfm     = require("./playerfm");

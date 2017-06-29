@@ -30,6 +30,7 @@
                 "*://*.napster.co.uk/*",
                 "*://*.napster.com/*",
                 "*://*.napster.de/*",
+                "*://noisetrade.com/*",
                 "*://*.npr.org/*",
                 "*://*.pandora.com/*",
                 "*://*.player.fm/*",
